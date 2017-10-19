@@ -1,3 +1,18 @@
+GB Comments:
+Prob1: 25 “for x=; y=;” statement is incomplete 
+Prob2:
+P1:100
+P2: 100
+P3: 50 indices exceeded matrix dimensions. 
+P4: 0 No graph produced 
+P5: 0  
+Prob3
+P1: 100
+P2:0
+P3:0 
+Overall: 42
+
+
 % Homework 1. Due before class on 9/5/17
 
 %% Problem 1 - addition with strings
